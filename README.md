@@ -1,3 +1,0 @@
-# stoikr.github.io
-
-Test
